@@ -33,6 +33,8 @@ socials:
 # build settings
 markdown: kramdown
 destination: ./build
+plugins:
+  - jekyll-timeago
 
 sass:
   style: compressed
