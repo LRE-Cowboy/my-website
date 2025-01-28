@@ -32,6 +32,7 @@ socials:
 
 # build settings
 markdown: kramdown
+destination: ./build
 
 sass:
   style: compressed
